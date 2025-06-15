@@ -21,16 +21,6 @@
         "url": "https://namechk.com/"
       },
       {
-        "name": "KnowEm",
-        "type": "url",
-        "url": "http://knowem.com/"
-      },
-      {
-        "name": "NameCheckr",
-        "type": "url",
-        "url": "https://www.namecheckr.com/"
-      },
-      {
         "name": "UserSearch.org",
         "type": "url",
         "url": "https://usersearch.org/"
@@ -49,11 +39,6 @@
         "name": "Thats Them",
         "type": "url",
         "url": "https://thatsthem.com/"
-      },
-      {
-        "name": "Check Usernames",
-        "type": "url",
-        "url": "http://checkusernames.com/"
       },
       {
         "name": "NameCheckup",
@@ -154,11 +139,6 @@
         "name": "Skymem",
         "type": "url",
         "url": "http://www.skymem.info/"
-      },
-      {
-        "name": "MailsHunt",
-        "type": "url",
-        "url": "https://mailshunt.com/"
       }]
     },
     {
@@ -169,11 +149,6 @@
         "name": "Email Format",
         "type": "url",
         "url": "https://www.email-format.com/"
-      },
-      {
-        "name": "Toofr",
-        "type": "url",
-        "url": "https://www.toofr.com/"
       },
       {
         "name": "Email Permutator",
@@ -1794,6 +1769,11 @@
           "type": "url",
           "url": "http://www.sno.phy.queensu.ca/~phil/exiftool/"
         },
+	{
+          "name": "ExifEditor",
+          "type": "url",
+          "url": "https://exifeditor.io"
+        },
         {
           "name": "Jeffrey's Exif Viewer",
           "type": "url",
@@ -2224,21 +2204,6 @@
           "type": "url",
           "url": "https://www.facebook.com/livemap#"
         }]
-      },
-      {
-        "name": "Analytics",
-        "type": "folder",
-        "children": [
-        {
-          "name": "fb-sleep-stats (T)",
-          "type": "url",
-          "url": "https://github.com/sqren/fb-sleep-stats"
-        },
-        {
-          "name": "Facebook Scanner",
-          "type": "url",
-          "url": "http://stalkscan.com/en/"
-        }]
       }]
     },
     {
@@ -2639,6 +2604,16 @@
         "name": "TikTok Viewer",
         "type": "url",
         "url": "https://urlebird.com//"
+      }]
+    },
+    {
+      "name": "Steam, Discord & Gaming Networks",
+      "type": "folder",
+      "children": [
+      {
+        "name": "SteamOSINT (T)",
+        "type": "url",
+        "url": "https://github.com/Frontline-Femmes/Steam-OSINT"
       }]
     },
     {
@@ -5427,11 +5402,6 @@
       }]
     },
     {
-      "name": "Tor2web",
-      "type": "url",
-      "url": "https://tor2web.org/"
-    },
-    {
       "name": "Web O Proxy",
       "type": "url",
       "url": "https://weboproxy.com/"
@@ -6110,6 +6080,11 @@
         "name": "Any Run",
         "type": "url",
         "url": "https://app.any.run/"
+      },
+      {
+	"name": "Uncover It",
+	"type": "url",
+	"url": "https://www.uncoverit.org/"
       }]
     },
     {
@@ -6745,6 +6720,11 @@
         "name": "The Many Hats Club - Privacy Resources",
         "type": "url",
         "url": "https://themanyhats.club/centralised-place-for-privacy-resources/"
+      },
+      {
+	"name": "The Hitchhiker’s Guide to Online Anonymity",
+	"type": "url",
+	"url": "https://anonymousplanet.org/guide/"
       }]
     },
     {
